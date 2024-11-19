@@ -9,8 +9,9 @@ This script replaces the system cursor with a custom sprite and adds interactive
 ## How to Use
 
 1. Add a `Canvas` to your scene and create a `UI Image` within it for your cursor sprite.
-2. Assign your sprite to the `Image` component and link it to the `cursorImage` field in the script's `Inspector`.
-3. Run the scene to see the cursor animation and interaction in action.
+2. Drag and drop the `InteractiveCursor` script onto the `UI Image` object.
+3. Assign your sprite to the `Image` component and link it to the `cursorImage` field in the script's `Inspector`.
+4. Run the scene to see the cursor animation and interaction in action.
 
 ## Parameters
 
